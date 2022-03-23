@@ -1,0 +1,57 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.nav{
+    font-size: larger;
+    text-align: right;
+    text-align: right;
+    display: inline-block;
+;
+}
+
+li{
+    display: inline;
+    padding: 25px;
+}
+
+header{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    border-bottom: 10px solid;
+
+ 
+}
+
+/* picture */
+#dino{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+/* under picture */
+h1{
+    text-align: center;
+}
+
+.contact-form{
+   background-color: green; 
+}
+
+#text{
+    text-align: center;
+    color:white;
+}
+/* contact forms */
+.row{
+    text-align: center;
+    color:white;
+}
+
+#footer{
+    background-color: purple;
+    text-align: center;
+    color:white
+}
